@@ -1,2 +1,2 @@
 # autoMaze
-create maze auto and resolve it
+create maze and resolve it
